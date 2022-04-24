@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/f0d8b3c328f628f128e7f.jpg"width="350"" alt="KeshavXSpam Logo">
 </p>
 <h1 align="center">
-  <b>⚠️ 𝙆𝙚𝙨𝙝𝙖𝙫 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
+  <b>⚠️ 𝘒𝘦𝘴𝘩𝘢𝘷 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/theend-alpha/KeshavXBotSpam?style=flat-square&color=blue)](https://github.com/theend-alpha/KeshavXBotSpam/fork)
