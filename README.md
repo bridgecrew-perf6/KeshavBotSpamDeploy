@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/59940e1a128cdb1b351e8.jpg"width="350"" alt="KeshavXSpam Logo">
+  <img src="https://te.legra.ph/file/f0d8b3c328f628f128e7f.jpg"width="350"" alt="KeshavXSpam Logo">
 </p>
 <h1 align="center">
   <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
