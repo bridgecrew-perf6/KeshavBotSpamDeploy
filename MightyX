@@ -4,10 +4,10 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $SPAM_REPO == "MightyXBotSpam" ]]
+    if [[ $SPAM_REPO == "KeshavXBotSpam" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0JlaW5nTWlnaHR5L01pZ2h0eVhCb3RTcGFtL2FyY2hpdmUvTWlnaHR5LnppcA==" | base64 -d
-    elif [[ $SPAM_REPO == "MightyXBotSpam" ]]
+    elif [[ $SPAM_REPO == "KeshavXBotSpam" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0JlaW5nTWlnaHR5L01pZ2h0eVhCb3RTcGFtL2FyY2hpdmUvTWlnaHR5LnppcA==" | base64 -d
     elif [[ $SPAM_REPO =~ $regex ]]
@@ -26,7 +26,7 @@ _repolink () {
 
 start_bot () {
     local zippath
-    zippath="MightyXBotSpam.zip"
+    zippath="KeshavXBotSpam.zip"
     echo "  Downloading Source Code..."
     wget -q $(_repolink) -O "$zippath"
     echo "  Unpacking Data..."
@@ -36,7 +36,7 @@ start_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $HELLPATH
-    echo "  ⚡ Starting MightyXSpam ⚡  "
+    echo "  ⚡ Starting KeshavXSpam ⚡  "
     echo """
 
 .##.....##.####..######...##.....##.########.##....##
@@ -50,7 +50,7 @@ start_bot () {
 """
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m MightyXSpam
+    python3 -m KeshavXSpam
 }
 
 start_bot
