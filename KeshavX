@@ -16,7 +16,7 @@ _repolink () {
         then
             echo "${SPAM_REPO}/archive/${SPAM_REPO_BRANCH}.zip"
         else
-            echo "${SPAM_REPO}/archive/Mighty.zip"
+            echo "${SPAM_REPO}/archive/Keshav.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0JlaW5nTWlnaHR5L01pZ2h0eVhCb3RTcGFtL2FyY2hpdmUvTWlnaHR5LnppcA==" | base64 -d
