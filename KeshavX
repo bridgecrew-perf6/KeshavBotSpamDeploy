@@ -44,7 +44,7 @@ NotReallyAlpha - 𝘒𝘦𝘴𝘩𝘢𝘷
 """
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m MightyXSpam
+    python3 -m KeshavXSpam
 }
 
 start_bot
